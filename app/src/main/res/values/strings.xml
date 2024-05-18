@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Listview</string>
+
+
+    <array name="edu">
+        <item>
+            کاردانی
+        </item>
+        <item>
+            کارشناسی
+        </item>
+        <item>
+            کارشناسی ارشد
+        </item>
+        <item>
+            دکتری
+        </item>
+
+    </array>
+    <array name="skill">
+        <item>
+            مهارت اچ تی ام ال
+        </item>
+        <item>
+            مهارت سی اس اس
+        </item>
+        <item>
+            مهارت پی اچ پی
+        </item>
+
+
+    </array>
+
+    <array name="skill2">
+
+    <item>
+        html
+    </item>
+    <item>
+        css
+    </item>
+    <item>
+        php
+    </item>
+
+
+</array>
+    </resources>
+
+
